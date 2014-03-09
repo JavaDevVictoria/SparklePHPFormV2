@@ -1,9 +1,7 @@
-
 # SparklePHPForm v2.0
-# by Victoria of http://creamed-coconut.org
-# Support/Development forums: http://creamed-coconut.org/forum
+# by Victoria Holland of http://www.victoria-holland.info
 # Thanks to www.thesitewizard.com for their tutorial which helped me write this script.
-# GPL (open source)
+# GPL v3 (open source)
 ------------------------------------------------------
 
 ABOUT:
